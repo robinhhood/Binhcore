@@ -1,5 +1,5 @@
 - Hi, my name is An Binh Vu and I am a master student in electrical engineering with a focus on robotics.
-- I’m interested in Human-Centered Robotics, Neurorehabilitation, and Numerical Optimization.
+- I’m interested in Human-Centered Robotics and Robot Learning.
 - I’m currently learning ROS, Gazebo and OpenCV.
 - I’m looking to collaborate on projects about Robotics, Control and Applied Mathematics.
 - I will be available for a research internship from August 2021.
